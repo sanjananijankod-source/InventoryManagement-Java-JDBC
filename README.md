@@ -23,3 +23,8 @@ This project is a simple Inventory / Product Management System built using **Jav
 4. Run the MainApp.java
 
 ## Project Structure
+
+🎥 Demo Video
+
+Watch the project demo here:
+👉 https://youtu.be/aWbnCUUlBCY
